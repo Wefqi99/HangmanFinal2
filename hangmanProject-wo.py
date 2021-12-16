@@ -59,7 +59,7 @@ def hangmanGame():
         else:
             print('You have typed an invalid character')
 
-
+    
 
     if lives == 0:
         print('Sorry, you have died. The word was:', word)
